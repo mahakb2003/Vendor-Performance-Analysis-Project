@@ -62,15 +62,19 @@ The data consists of the following interrelated tables:
 
 📈 Project Workflow
 1.Understand the Business Problem
+
 2.Explore and Clean Raw Data
 -Loaded tables into SQLite
 -Cleaned data using SQL queries in Python (Jupyter Notebook)
+
 3.Aggregate Data
 -Created a final summarized table Vendor_sale_summary
 -Stored in SQLite for further analysis
+
 4.Load Aggregated Table in Python for EDA
 -Conducted Exploratory Data Analysis
 -Solved key research questions and interpreted findings
+
 5.Visualized Insights
 -Built a Power BI dashboard using the final aggregated table with DAX queries to calculate custom KPIs and metrics for better interpretation and reporting
 

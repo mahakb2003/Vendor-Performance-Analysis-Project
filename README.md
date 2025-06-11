@@ -28,8 +28,6 @@ Based on the research questions above, I derived the following data-backed insig
 
 📊 Found significant profitability gaps between vendors using statistical testing (t-tests), supporting data-driven vendor management decisions.
 
-
-
 🛠️ Tools & Technologies
  Tools & Technologies
 1.SQL – Data cleaning and table aggregation
@@ -78,7 +76,8 @@ The data consists of the following interrelated tables:
 
 👩‍💻 Author
 Mahak Bisht
-Aspiring Business Analyst Analyst | Skilled in Python, SQL, and Power BI
+Aspiring Business Analyst Analyst 
+Skilled in Python, SQL, and Power BI
 
 
 
